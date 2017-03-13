@@ -26,7 +26,7 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.vvidovic</groupId>
+    <groupId>com.github.vvidovic.inspektr</groupId>
     <artifactId>inspektr</artifactId>
     <packaging>pom</packaging>
     <name>Inspektr Auditing Library</name>

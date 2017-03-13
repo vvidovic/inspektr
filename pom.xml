@@ -31,19 +31,18 @@
     <packaging>pom</packaging>
     <name>Inspektr Auditing Library</name>
     <version>1.8.GA-SNAPSHOT</version>
-    <url>http://github.com/apereo/inspektr</url>
+    <url>http://github.com/vvidovic/inspektr</url>
     <inceptionYear>2007</inceptionYear>
     <description>Inspektr is a non-intrusive auditing library for Java based applications.</description>
 
     <scm>
-        <connection>scm:git:http://github.com/apereo/inspektr.git</connection>
-        <developerConnection>scm:git:git@github.com:apereo/inspektr.git</developerConnection>
-        <url>http://www.github.com/apereo/inpektr</url>
-        <tag>master</tag>
+        <connection>scm:git:git://github.com/vvidovic/inspektr.git</connection>
+        <developerConnection>scm:git:ssh://github.com:vvidovic/inspektr.git</developerConnection>
+        <url>https://github.com/vvidovic/inspektr</url>
     </scm>
 
     <issueManagement>
-        <url>http://github.com/apereo/inspektr/issues</url>
+        <url>https://github.com/vvidovic/inspektr/issues</url>
         <system>Github</system>
     </issueManagement>
 
@@ -57,32 +56,10 @@
 
     <developers>
         <developer>
-            <id>dima767</id>
-            <name>Dmitriy Kopylenko</name>
-            <email>dkopylen@rutgers.edu</email>
-            <organization>Rutgers, the State University of New Jersey</organization>
-            <organizationUrl>http://www.rutgers.edu</organizationUrl>
-            <roles>
-                <role>Developer</role>
-            </roles>
-        </developer>
-
-        <developer>
-            <id>battags</id>
-            <name>Scott Battaglia</name>
-            <email>scott.battaglia@gmail.com</email>
-            <organizationUrl>http://www.scottbattaglia.com</organizationUrl>
-            <roles>
-                <role>Developer</role>
-            </roles>
-        </developer>
-
-        <developer>
-            <id>serac</id>
-            <name>Marvin Addison</name>
-            <email>serac@vt.edu</email>
-            <organization>Virginia Tech</organization>
-            <organizationUrl>http://www.vt.edu</organizationUrl>
+            <id>vvidovic</id>
+            <name>Vedran Vidović</name>
+            <email>vvidovic+github.inspektr@gmail.com</email>
+            <organizationUrl>https://github.com/vvidovic</organizationUrl>
             <roles>
                 <role>Developer</role>
             </roles>

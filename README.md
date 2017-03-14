@@ -13,6 +13,8 @@ runtime information from Spring framework's managed beans i.e. running inside Sp
 
 Nothing more, nothing less.
 
+Fork of apereo inspektr library with support for Java 1.6 (apereo version supports Java >= 1.7).
+
 ## The architecture
 
 The architecture of Inspektr Auditing library is very simple. At its core it has 3 main components:

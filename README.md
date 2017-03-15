@@ -13,7 +13,7 @@ runtime information from Spring framework's managed beans i.e. running inside Sp
 
 Nothing more, nothing less.
 
-Fork of apereo inspektr library with support for Java 1.6 (apereo version supports Java >= 1.7).
+**Fork of apereo inspektr library with support for Java 1.6 (apereo version supports Java >= 1.7).**
 
 ## The architecture
 
